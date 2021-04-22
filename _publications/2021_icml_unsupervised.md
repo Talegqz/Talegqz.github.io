@@ -7,8 +7,8 @@ venue: "ICML"
 authors: "Qingzhe Gao, Bin Wang, Libin Liu, Baoquan Chen"
 uri: 
 arxiv: 
-# bibtex: files/2020-3d-matching-style.txt
+bibtex: 
 pdf: 
-# teaser: images/localization-style.png
+teaser: 
 ---
 coming soon!
