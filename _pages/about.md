@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a phd candidate at ShanDong Unversity.
-<!-- I am an associate research scientist at [DisneyResearch\|Studios](https://studios.disneyresearch.com/) in Zürich and my research interests are in computer vision, computer graphics and machine learning. I did my PhD at [Technicolor R&I](http://www.technicolor.com/en/innovation/research-innovation/ri-laboratories) Rennes jointly with [Morpheo](http://morpheo.inrialpes.fr/) team at INRIA Grenoble. Before joining Disney, I was a postdoctoral researcher in the [GraphDeco](https://team.inria.fr/graphdeco/) group at INRIA Sophia-Antipolis. -->
+I am a phd candidate at [Shandong Unversity](https://en.sdu.edu.cn), my research interests are in computer vision, computer graphics and machine learning. Now I am working at [VCL\|PKU](http://vcl.pku.edu.cn/index.html). My supervisor is Prof.[Baoquan chen](https://cfcs.pku.edu.cn/baoquan/).
+
 
 Publications
 ------
