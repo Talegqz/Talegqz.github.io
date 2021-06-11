@@ -5,10 +5,10 @@ permalink: /publication/2021_icml_unsupervised
 date: 2021-5-1
 venue: "ICML"
 authors: "Qingzhe Gao, Bin Wang, Libin Liu, Baoquan Chen"
-uri: 
-arxiv: 
+uri: https://github.com/Talegqz/unsupervised_co_part_segmentation
+arxiv: https://arxiv.org/abs/2106.05897
 bibtex: 
-pdf: 
-teaser: 
+pdf: https://arxiv.org/pdf/2106.05897.pdf
+teaser: https://github.com/Talegqz/unsupervised_co_part_segmentation/blob/main/teaser.PNG
 ---
 <!-- coming soon! -->
