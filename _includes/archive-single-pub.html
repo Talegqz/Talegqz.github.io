@@ -22,9 +22,7 @@
       {% endif %}
     </h3>
     {% if post.authors%}{{ post.authors }}{% endif %}
-    <p> 
     {% if post.comments%}{{ post.comments }}{% endif %}
-    </p>
     <p> 
     {% if post.venue%}<span style="font-style:italic">{{ post.venue }}</span> {% endif %}
     {% if post.date %}{{ post.date | default: "1900-01-01" | date: "%Y" }}{% endif %}
