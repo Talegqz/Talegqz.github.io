@@ -5,9 +5,9 @@ collection: publications
 permalink: /publication/2022_generalize_human_nerf
 date: 2022-8-25
 venue: "arxiv"
-authors: "Yiming Wang*, Qingzhe Gao*, Libin Liu†, Lingjie Liu†, Christian Theobalt, Baoquan Chen†                                                          
-*: equal contribution †: corresponding author
-"
+comments: "feaf"
+authors: "Yiming Wang*, Qingzhe Gao*, Libin Liu†, Lingjie Liu†, Christian Theobalt, Baoquan Chen†"
+excerpt:  "*: equal contribution †: corresponding author"
 # uri: https://github.com/Talegqz/unsupervised_co_part_segmentation
 arxiv: ''
 # bibtex: 
