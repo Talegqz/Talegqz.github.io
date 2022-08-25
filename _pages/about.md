@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at [Shandong Unversity](https://en.sdu.edu.cn), my research interests are in computer vision, computer graphics and machine learning. Now I am working at [IRC-SDU](http://irc.cs.sdu.edu.cn/) and [VCL-PKU](http://vcl.pku.edu.cn/index.html). My supervisor is Prof. [Baoquan Chen](https://cfcs.pku.edu.cn/baoquan/).
+I am a PhD candidate at [Shandong Unversity](https://en.sdu.edu.cn), my research interests are in computer vision, computer graphics and machine learning. Now I am working at  [VCL-PKU](http://vcl.pku.edu.cn/index.html) and [IRC-SDU](http://irc.cs.sdu.edu.cn/). My supervisor is Prof. [Baoquan Chen](https://cfcs.pku.edu.cn/baoquan/).
 
 
 Publications
