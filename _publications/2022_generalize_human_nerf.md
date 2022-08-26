@@ -2,7 +2,7 @@
 title: "Neural Novel Actor: Learning a Generalized Animatable Neural Representation for
 Human Actors"
 collection: publications
-permalink: /publication/2022_generalize_human_nerf
+permalink: https://talegqz.github.io/neural_novel_actor/
 date: 2022-8-25
 venue: "arxiv"
 authors: "Yiming Wang*, Qingzhe Gao*, Libin Liu†, Lingjie Liu†, Christian Theobalt, Baoquan Chen†"
