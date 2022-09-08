@@ -1,16 +1,17 @@
 ---
-title: "Neural Novel Actor: Learning a Generalized Animatable Neural Representation for Human Actors"
+title: "Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis
+with Hierarchical Neural Embeddings"
 collection: publications
-permalink: https://talegqz.github.io/neural_novel_actor/
+permalink: https://talegqz.github.io/
 date: 2022-8-25
-venue: "arxiv"
-authors: "Yiming Wang*, Qingzhe Gao*, Libin Liu†, Lingjie Liu†, Christian Theobalt, Baoquan Chen†"
-comments:  "*: equal contribution †: corresponding author"
+venue: "SIGGRAPH ASIA 2022"
+authors: "Tenglong Ao, Qingzhe Gao, Yuke Lou, Baoquan Chen,Libin Liu†"
+comments:  "†: corresponding author"
 # uri: https://github.com/Talegqz/unsupervised_co_part_segmentation
-arxiv: 'https://arxiv.org/abs/2208.11905'
+arxiv: 'https://talegqz.github.io'
 # bibtex: 
-pdf: 'https://arxiv.org/abs/2208.11905'
-project: https://talegqz.github.io/neural_novel_actor
+pdf: 'https://talegqz.github.io'
+project: https://talegqz.github.io
 # teaser: /images/teaser_icml2021.PNG
 ---
 <!-- coming soon! -->
