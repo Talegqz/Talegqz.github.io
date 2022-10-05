@@ -8,10 +8,10 @@ venue: "SIGGRAPH ASIA"
 authors: "Tenglong Ao, Qingzhe Gao, Yuke Lou, Baoquan Chen,Libin Liu†"
 comments:  "†: corresponding author"
 # uri: https://github.com/Talegqz/unsupervised_co_part_segmentation
-arxiv: 'https://talegqz.github.io'
+arxiv: 'https://arxiv.org/abs/2210.01448'
 # bibtex: 
-pdf: 'https://talegqz.github.io'
-project: https://talegqz.github.io
+pdf: 'https://arxiv.org/abs/2210.01448'
+project: https://github.com/Aubrey-ao/HumanBehaviorAnimation
 # teaser: /images/teaser_icml2021.PNG
 ---
 <!-- coming soon! -->
