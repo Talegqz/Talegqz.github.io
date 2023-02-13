@@ -4,7 +4,7 @@ with Hierarchical Neural Embeddings"
 collection: publications
 permalink: https://talegqz.github.io/
 date: 2022-8-25
-venue: "SIGGRAPH ASIA"
+venue: "SIGGRAPH ASIA (Best Paper Awards) "
 authors: "Tenglong Ao, Qingzhe Gao, Yuke Lou, Baoquan Chen,Libin Liu†"
 comments:  "†: corresponding author"
 # uri: https://github.com/Talegqz/unsupervised_co_part_segmentation
