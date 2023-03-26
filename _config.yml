@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qingzhe Gao (高庆哲)"
+title                    : "Qingzhe Gao"
 title_separator          : "-"
 name                     : &name "Qingzhe Gao (高庆哲)"
 description              : &description "personal description"
