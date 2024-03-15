@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="description"
+        content="Neural Novel Actor: Learning a Generalized Animatable Neural Representation for Human Actors.">
+  <meta name="keywords" content="Nerfies, D-NeRF, NeRF">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Neural Novel Actor: Learning a Generalized Animatable Neural Representation for Human Actors.</title>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-PYVRSFMDRL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'G-PYVRSFMDRL');
+  </script>
+
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+        rel="stylesheet">
+
+  <link rel="stylesheet" href="./static/css/bulma.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="./static/css/fontawesome.all.min.css">
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="./static/css/index.css">
+  <!-- <link rel="icon" href="./static/images/favicon.svg"> -->
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="./static/js/fontawesome.all.min.js"></script>
+  <script src="./static/js/bulma-carousel.min.js"></script>
+  <script src="./static/js/bulma-slider.min.js"></script>
+  <script src="./static/js/index.js"></script>
+</head>
+<body>
+
+<nav class="navbar" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+  <div class="navbar-menu">
+    <div class="navbar-start" style="flex-grow: 1; justify-content: center;">
+      <a class="navbar-item" href="https://talegqz.github.io/">
+      <span class="icon">
+          <i class="fas fa-home"></i>
+      </span>
+      </a>
+
+      <!-- <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link">
+          More Research
+        </a>
+        <div class="navbar-dropdown">
+          <a class="navbar-item" href="https://hypernerf.github.io">
+            HyperNeRF
+          </a>
+          <a class="navbar-item" href="https://nerfies.github.io">
+            Nerfies
+          </a>
+          <a class="navbar-item" href="https://latentfusion.github.io">
+            LatentFusion
+          </a>
+          <a class="navbar-item" href="https://photoshape.github.io">
+            PhotoShape
+          </a>
+        </div>
+      </div> -->
+    </div>
+
+  </div>
+</nav>
+
+
+<section class="hero">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+          <h1 class="title is-1 publication-title">Neural Novel Actor: Learning a Generalized Animatable Neural Representation for Human Actors.</h1>
+          TVCG 2023  
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">
+              Yiming Wang*<sup>1</sup>,</span>
+            <span class="author-block">
+              <a href="https://talegqz.github.io/">Qingzhe Gao*</a><sup>2,1</sup>,</span>
+            <span class="author-block">
+              <a href="http://libliu.info"> Libin Liu†</a><sup>1</sup>,
+            </span>
+            <span class="author-block">
+              <a href="https://lingjie0206.github.io"> Lingjie Liu†</a><sup>3</sup>,
+            </span>
+            <span class="author-block">
+              <a href="https://www.mpi-inf.mpg.de/~theobalt">Christian Theobalt</a><sup>3</sup>,
+            </span>
+            <span class="author-block">
+              <a href="https://cfcs.pku.edu.cn/baoquan/">Baoquan Chen†</a><sup>1</sup>,
+            </span>
+          </div>
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">*: equal comtribution,</span>
+            <span class="author-block">†: corresponding author</span>
+          </div>
+          <div class="is-size-5 publication-authors">
+            <span class="author-block"><sup>1</sup>Peking Unviersity,</span>
+            <span class="author-block"><sup>2</sup>Shandong Unviersity</span>
+            <span class="author-block"><sup>3</sup>Max Planck Institute for Informatics</span>
+          </div>
+
+          <div class="column has-text-centered">
+            <div class="publication-links">
+              <!-- PDF Link. -->
+              <!-- <span class="link-block">
+                <a href="https://arxiv.org/pdf/2011.12948"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fas fa-file-pdf"></i>
+                  </span>
+                  <span>Paper</span>
+                </a>
+              </span> -->
+              <!-- PDF Link. -->
+              <span class="link-block">
+                <a href="https://arxiv.org/abs/2208.11905"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="ai ai-arxiv"></i>
+                  </span>
+                  <span>arXiv</span>
+                </a>
+              </span>
+              <!-- Video Link. -->
+              <!-- <span class="link-block">
+                <a href="https://www.youtube.com/watch?v=MrKrnHhk8IA"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fab fa-youtube"></i>
+                  </span>
+                  <span>Video</span>
+                </a>
+              </span> -->
+
+              <!-- Code Link. -->
+              <span class="link-block">
+                <a href="https://github.com/Talegqz/neural_novel_actor"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fab fa-github"></i>
+                  </span>
+                  <span>Code (Already Done)</span>
+                  </a>
+              </span>
+              <!-- Dataset Link. -->
+              <!-- <span class="link-block">
+                <a href="https://github.com/google/nerfies/releases/tag/0.1"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="far fa-images"></i>
+                  </span>
+                  <span>Data</span>
+                  </a> -->
+            </div>
+           
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <!-- Abstract. -->
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Abstract</h2>
+        <div class="content has-text-justified">
+            We propose a new method for learning a generalized ani-
+            matable neural human representation from a sparse set of
+            multi-view imagery of multiple persons. The learned repre-
+            sentation can be used to synthesize novel view images of an
+            arbitrary person from a sparse set of cameras, and further
+            animate them with the user’s pose control. While existing
+            methods can either generalize to new persons or synthesize
+            animations with user control, none of them can achieve both
+            at the same time. We attribute this accomplishment to the
+            employment of a 3D proxy for a shared multi-person human
+            model, and further the warping of the spaces of different poses
+            to a shared canonical pose space, in which we learn a neural
+            field and predict the person- and pose-dependent deforma-
+            tions, as well as appearance with the features extracted from
+            input images. To cope with the complexity of the large vari-
+            ations in body shapes, poses, and clothing deformations, we
+            design our neural human model with disentangled geometry
+            and appearance. Furthermore, we utilize the image features
+            both at the spatial point and on the surface points of the 3D
+            proxy for predicting person- and pose-dependent properties.
+            Experiments show that our method significantly outperforms
+            the state-of-the-arts on both task.
+        </div>
+      </div>
+    </div>
+    <!--/ Abstract. -->
+
+    <!-- Paper video. -->
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Video</h2>
+        <div class="publication-video">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/eiTJhYHAmWI" title="neural novel actor" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
+<section class="section" id="BibTeX">
+      <div class="container is-max-desktop content">
+        <h2 class="title">BibTeX</h2>
+        <pre><code>@article{Gao2022neuralnovelactor,
+        url = {https://arxiv.org/abs/2208.11905},
+        author = {Wang, Yiming and Gao, Qingzhe and Liu, Libin and Liu, Lingjie and Theobalt, Christian and Chen, Baoquan},    
+        title = {Neural Novel Actor: Learning a Generalized Animatable Neural Representation for Human Actors},
+        publisher = {IEEE Transactions on Visualization and Computer Graphics},
+        year = {2023},
+      }</code></pre>
+      </div>
+    </section>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="content has-text-centered">
+        <!-- <a class="icon-link"
+          href="https://homes.cs.washington.edu/~kpar/nerfies/videos/nerfies_paper.pdf">
+          <i class="fas fa-file-pdf"></i>
+        </a> -->
+        <a class="icon-link" href="https://github.com/talegqz" class="external-link" disabled>
+          <i class="fab fa-github"></i>
+        </a>
+      </div>
+      <div class="columns is-centered">
+        <div class="column is-8">
+          <div class="content">
+            <p>
+              This website is licensed under a <a rel="license"
+                                                  href="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+              Commons Attribution-ShareAlike 4.0 International License</a>.
+            </p>
+            <p>
+              This means you are free to borrow the <a
+                href="https://github.com/nerfies/nerfies.github.io">source code</a> of this website,
+              we just ask that you link back to this page in the footer.
+              Please remember to remove the analytics code included in the header of the website which
+              you do not want on your website.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+</body>
+</html>
