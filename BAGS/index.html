@@ -88,8 +88,8 @@
     <div class="container is-max-desktop">
       <div class="columns is-centered">
         <div class="column has-text-centered">
-          <h1 class="title is-1 publication-title">Neural Novel Actor: Learning a Generalized Animatable Neural Representation for Human Actors.</h1>
-          TVCG 2023  
+          <h1 class="title is-1 publication-title">BAGS: Building  Animatable  Gaussian Splatting from a Monocular Video with Diffusion Priors</h1>
+          Arxiv 2023  
           <div class="is-size-5 publication-authors">
             <span class="author-block">
               Yiming Wang*<sup>1</sup>,</span>
@@ -186,28 +186,7 @@
       <div class="column is-four-fifths">
         <h2 class="title is-3">Abstract</h2>
         <div class="content has-text-justified">
-            We propose a new method for learning a generalized ani-
-            matable neural human representation from a sparse set of
-            multi-view imagery of multiple persons. The learned repre-
-            sentation can be used to synthesize novel view images of an
-            arbitrary person from a sparse set of cameras, and further
-            animate them with the user’s pose control. While existing
-            methods can either generalize to new persons or synthesize
-            animations with user control, none of them can achieve both
-            at the same time. We attribute this accomplishment to the
-            employment of a 3D proxy for a shared multi-person human
-            model, and further the warping of the spaces of different poses
-            to a shared canonical pose space, in which we learn a neural
-            field and predict the person- and pose-dependent deforma-
-            tions, as well as appearance with the features extracted from
-            input images. To cope with the complexity of the large vari-
-            ations in body shapes, poses, and clothing deformations, we
-            design our neural human model with disentangled geometry
-            and appearance. Furthermore, we utilize the image features
-            both at the spatial point and on the surface points of the 3D
-            proxy for predicting person- and pose-dependent properties.
-            Experiments show that our method significantly outperforms
-            the state-of-the-arts on both task.
+          Animatable  3D reconstruction has significant applications across various fields, primarily relying on artists' handcraft creation. Recently, some studies have successfully constructed animatable 3D models from monocular videos. However, these approaches require sufficient view coverage of the object within the input video and typically necessitate significant time and computational costs for training and rendering. This limitation restricts the practical applications. In this work, we propose a method to build animatable 3D Gaussian Splatting from monocular video with diffusion priors. The 3D Gaussian representations significantly accelerate the training and rendering process, and the diffusion priors allow the method to learn 3D models with limited viewpoints.We also present the rigid regularization to enhance the utilization of the priors. We perform an extensive evaluation across various real-world videos, demonstrating its superior performance compared to the current state-of-the-art methods.
         </div>
       </div>
     </div>
