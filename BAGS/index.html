@@ -25,6 +25,7 @@
   <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
         rel="stylesheet">
 
+  <link rel="stylesheet" href="./static/css/my_style.css">
   <link rel="stylesheet" href="./static/css/bulma.min.css">
   <link rel="stylesheet" href="./static/css/bulma-carousel.min.css">
   <link rel="stylesheet" href="./static/css/bulma-slider.min.css">
@@ -39,6 +40,7 @@
   <script src="./static/js/bulma-carousel.min.js"></script>
   <script src="./static/js/bulma-slider.min.js"></script>
   <script src="./static/js/index.js"></script>
+  <script type="text/javascript" src="./static/js/video_comparison.js"></script>
 </head>
 <body>
 
@@ -149,12 +151,12 @@
 
               <!-- Code Link. -->
               <span class="link-block">
-                <a href="https://github.com/Talegqz/BAGS"
+                <a href="https://talegqz.github.io/BAGS/"
                    class="external-link button is-normal is-rounded is-dark">
                   <span class="icon">
                       <i class="fab fa-github"></i>
                   </span>
-                  <span>Code</span>
+                  <span>Code (Coming soon)</span>
                   </a>
               </span>
               <!-- Dataset Link. -->
@@ -232,18 +234,63 @@
         </div>
       </div>
     </div>
+
+
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Comparisons</h2>
+      </div>
+    </div>
     
+    <div class="grid-container-3-text">
+      <strong><div style="text-align: center">Input</div></strong>
+      <strong><div style="text-align: center">Banmo</div></strong>
+      <strong><div style="text-align: center">Ours</div></strong>
+  </div>
+
+  <div class="grid-container-3">
+      <div class="grid-item"><video class="video" loop playsinline autoPlay muted src="static/videos/camel_ref.mp4"></video></div>
+      <div class="grid-item"><video class="video" loop playsinline autoPlay muted src="static/videos/camel_banmo.mp4"></video></div>
+      <div class="grid-item"><video class="video" loop playsinline autoPlay muted src="static/videos/camel_ours.mp4"></video></div>
+  </div>
+  <div class="grid-container-3">
+      <div class="grid-item"><video class="video" loop playsinline autoPlay muted src="static/videos/lion_ref.mp4"></video></div>
+      <div class="grid-item"><video class="video" loop playsinline autoPlay muted src="static/videos/lion_banmo.mp4"></video></div>
+      <div class="grid-item"><video class="video" loop playsinline autoPlay muted src="static/videos/lion_ours.mp4"></video></div>
+  </div>
+  <div class="grid-container-3">
+      <div class="grid-item"><video class="video" loop playsinline autoPlay muted src="static/videos/penguin_ref.mp4"></video></div>
+      <div class="grid-item"><video class="video" loop playsinline autoPlay muted src="static/videos/penguin_banmo.mp4"></video></div>
+      <div class="grid-item"><video class="video" loop playsinline autoPlay muted src="static/videos/penguin_ours.mp4"></video></div>
+  </div>
+  <div class="grid-container-3">
+      <div class="grid-item"><video class="video" loop playsinline autoPlay muted src="static/videos/snail_ref.mp4"></video></div>
+      <div class="grid-item"><video class="video" loop playsinline autoPlay muted src="static/videos/snail_banmo.mp4"></video></div>
+      <div class="grid-item"><video class="video" loop playsinline autoPlay muted src="static/videos/snail_ours.mp4"></video></div>
+  </div>
+  <div class="grid-container-3">
+    <div class="grid-item"><video class="video" loop playsinline autoPlay muted src="static/videos/bailang_ref.mp4"></video></div>
+    <div class="grid-item"><video class="video" loop playsinline autoPlay muted src="static/videos/bailang_banmo.mp4"></video></div>
+    <div class="grid-item"><video class="video" loop playsinline autoPlay muted src="static/videos/bailang_ours.mp4"></video></div>
+  </div>
+  <div class="grid-container-3">
+      <div class="grid-item"><video class="video" loop playsinline autoPlay muted src="static/videos/bear_ref.mp4"></video></div>
+      <div class="grid-item"><video class="video" loop playsinline autoPlay muted src="static/videos/bear_banmo.mp4"></video></div>
+      <div class="grid-item"><video class="video" loop playsinline autoPlay muted src="static/videos/bear_ours.mp4"></video></div>
+  </div>
+
 <section class="section" id="BibTeX">
       <div class="container is-max-desktop content">
         <h2 class="title">BibTeX</h2>
-        <pre><code>@misc{zhang2024bags,
-          title={BAGS: Building Animatable Gaussian Splatting from a Monocular Video with Diffusion Priors}, 
-          author={Tingyang Zhang and Qingzhe Gao and Weiyu Li and Libin Liu and Baoquan Chen},
-          year={2024},
-          eprint={2403.11427},
-          archivePrefix={arXiv},
-          primaryClass={cs.CV}
-    }</code></pre>
+        <pre><code>@article{
+          111
+        <!-- Gao2022neuralnovelactor,
+        url = {https://arxiv.org/abs/2208.11905},
+        author = {Wang, Yiming and Gao, Qingzhe and Liu, Libin and Liu, Lingjie and Theobalt, Christian and Chen, Baoquan},    
+        title = {Neural Novel Actor: Learning a Generalized Animatable Neural Representation for Human Actors},
+        publisher = {IEEE Transactions on Visualization and Computer Graphics},
+        year = {2023}, -->
+      }</code></pre>
       </div>
     </section>
 
