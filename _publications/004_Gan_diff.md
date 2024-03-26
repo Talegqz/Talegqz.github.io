@@ -3,7 +3,7 @@ title: "Learning Controllable 3D Diffusion Models from Single-view Images"
 collection: publications
 permalink: https://jiataogu.me/control3diff/
 date: 2023-4-25
-venue: "3DV 2023"
+venue: "3DV"
 authors: "Jiatao Gu, Qingzhe Gao, Shuangfei Zhai, Baoquan Chen, Lingjie Liu, Josh Susskind"
 comments:  ""
 # uri: https://github.com/Talegqz/unsupervised_co_part_segmentation
