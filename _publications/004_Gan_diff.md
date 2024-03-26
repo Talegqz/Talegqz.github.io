@@ -11,6 +11,6 @@ arxiv: 'https://arxiv.org/abs/2304.06700'
 # bibtex: 
 pdf: 'https://arxiv.org/abs/2304.06700'
 project: https://jiataogu.me/control3diff
-teaser: /images/Learning_Contro.PNG
+teaser: /images/Learning_Contro.png
 ---
 <!-- coming soon! -->
