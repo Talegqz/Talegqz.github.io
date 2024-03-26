@@ -3,7 +3,7 @@ title: "BAGS: Building Animatable Gaussian Splatting from a Monocular Video with
 collection: publications
 permalink: https://talegqz.github.io/BAGS/
 date: 2024-3-10
-venue: "Arxiv 2024"
+venue: "Arxiv"
 authors: "Tingyang Zhang*, Qingzhe Gao*, Weiyu Li, Libin Liu,  Baoquan Chen"
 comments:  "*: joint first author"
 # uri: https://github.com/Talegqz/unsupervised_co_part_segmentation
