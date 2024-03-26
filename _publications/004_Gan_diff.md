@@ -11,6 +11,6 @@ arxiv: 'https://arxiv.org/abs/2304.06700'
 # bibtex: 
 pdf: 'https://arxiv.org/abs/2304.06700'
 project: https://jiataogu.me/control3diff
-# teaser: /images/teaser_icml2021.PNG
+teaser: /images/Learning_Contro.PNG
 ---
 <!-- coming soon! -->

@@ -11,6 +11,6 @@ arxiv: 'https://arxiv.org/abs/2208.11905'
 # bibtex: 
 pdf: 'https://arxiv.org/abs/2208.11905'
 project: https://talegqz.github.io/neural_novel_actor
-# teaser: /images/teaser_icml2021.PNG
+teaser: /images/Neural_Novel_Ac.png
 ---
 <!-- coming soon! -->

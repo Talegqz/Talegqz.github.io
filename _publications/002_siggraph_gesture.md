@@ -12,6 +12,6 @@ arxiv: 'https://arxiv.org/abs/2210.01448'
 # bibtex: 
 pdf: 'https://arxiv.org/abs/2210.01448'
 project: https://github.com/Aubrey-ao/HumanBehaviorAnimation
-# teaser: /images/teaser_icml2021.PNG
+teaser: /images/Rhythmic_Gestic.png
 ---
 <!-- coming soon! -->
