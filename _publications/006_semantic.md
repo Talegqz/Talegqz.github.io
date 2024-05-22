@@ -3,7 +3,7 @@ title: "Semantic Gesticulator: Semantics-Aware Co-Speech Gesture Synthesis"
 collection: publications
 permalink: https://pku-mocca.github.io/Semantic-Gesticulator-Page/
 date: 2024-3-01
-venue: "Arxiv"
+venue: "SIGGRAPH"
 authors: "Tingyang Zhang*, Qingzhe Gao*, Weiyu Li, Libin Liu,  Baoquan Chen"
 comments:  "*: joint first author"
 # uri: https://github.com/Talegqz/unsupervised_co_part_segmentation
