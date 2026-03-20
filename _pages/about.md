@@ -10,7 +10,7 @@ redirect_from:
 
 I obtained my Ph.D. in Computer Science from [Shandong University](https://en.sdu.edu.cn), jointly supervised by Prof. [Baoquan Chen](https://cfcs.pku.edu.cn/baoquan/) at [Peking University](https://www.pku.edu.cn). I received my B.S. from [Taishan College](https://www.tsxt.sdu.edu.cn) (an elite program for fundamental sciences), Shandong University.
 
-My research interests lie in **3D computer vision**, **neural rendering**, **generative AI**, and **multimodal large models**.
+My research interests lie in 3D computer vision, neural rendering, generative AI, and multimodal large models.
 
 
 Publications
