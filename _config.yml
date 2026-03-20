@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Qingzhe Gao"
   avatar           : "profile.jpg"
-  bio              : "PhD candidate"
+  bio              : "Ph.D. in Computer Science"
   location         : "Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=iS7g5jUAAAAJ&hl=en"
   email            : "gaoqingzhe97@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

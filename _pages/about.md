@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at [Shandong Unversity](https://en.sdu.edu.cn), my research interests are in computer vision, computer graphics and machine learning. I completed B.S. of Computer Science and Technology at [Taishan College](https://www.tsxt.sdu.edu.cn), [Shandong University](https://www.sdu.edu.cn) (2019).  Now I am working at  [VCL-PKU](http://vcl.pku.edu.cn/index.html) and [IRC-SDU](http://irc.cs.sdu.edu.cn/). My supervisor is Prof. [Baoquan Chen](https://cfcs.pku.edu.cn/baoquan/).
+I obtained my Ph.D. in Computer Science from [Shandong University](https://en.sdu.edu.cn), jointly supervised by Prof. [Baoquan Chen](https://cfcs.pku.edu.cn/baoquan/) at [Peking University](https://www.pku.edu.cn). I received my B.S. from [Taishan College](https://www.tsxt.sdu.edu.cn) (an elite program for fundamental sciences), Shandong University.
+
+My research interests lie in **3D computer vision**, **neural rendering**, **generative AI**, and **multimodal large models**.
 
 
 Publications
