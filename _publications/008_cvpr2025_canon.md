@@ -9,6 +9,6 @@ comments:  ""
 arxiv: 'https://github.com/JinLi998/CanonObjaverseDataset/blob/master/paper/One-shot%203D%20Object%20Canonicalization%20based%20on%20Geometric%20and%20Semantic%20Consistency.pdf'
 pdf: 'https://github.com/JinLi998/CanonObjaverseDataset/blob/master/paper/One-shot%203D%20Object%20Canonicalization%20based%20on%20Geometric%20and%20Semantic%20Consistency.pdf'
 project: https://jinli998.github.io/One-shot_3D_Object_Canonicalization/
-teaser:
+teaser: /images/oneshot.png
 ---
 <!-- coming soon! -->

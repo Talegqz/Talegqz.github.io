@@ -9,6 +9,6 @@ comments:  ""
 arxiv: 'https://arxiv.org/abs/2501.03220'
 pdf: 'https://arxiv.org/pdf/2501.03220'
 project: https://michaelszj.github.io/protracker/
-teaser:
+teaser: /images/protracker.png
 ---
 <!-- coming soon! -->
