@@ -1,7 +1,8 @@
 ---
 title: "One-shot 3D Object Canonicalization based on Geometric and Semantic Consistency"
 collection: publications
-permalink: https://jinli998.github.io/One-shot_3D_Object_Canonicalization/
+permalink: /publication/2025_cvpr_canonicalization
+link: https://jinli998.github.io/One-shot_3D_Object_Canonicalization/
 date: 2025-3-01
 venue: "CVPR (Highlight)"
 authors: "Li Jin, Yujie Wang, Wenzheng Chen, Qiyu Dai, Qingzhe Gao, Xueying Qin, Baoquan Chen"

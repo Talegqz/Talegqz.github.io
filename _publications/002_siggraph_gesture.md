@@ -2,7 +2,8 @@
 title: "Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis
 with Hierarchical Neural Embeddings"
 collection: publications
-permalink: https://talegqz.github.io/
+permalink: /publication/2022_siggraph_gesture
+link: https://talegqz.github.io/
 date: 2022-8-25
 venue: "SIGGRAPH ASIA (Best Paper Awards) "
 authors: "Tenglong Ao, Qingzhe Gao, Yuke Lou, Baoquan Chen,Libin Liu†"

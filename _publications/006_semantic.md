@@ -1,7 +1,8 @@
 ---
 title: "Semantic Gesticulator: Semantics-Aware Co-Speech Gesture Synthesis"
 collection: publications
-permalink: https://pku-mocca.github.io/Semantic-Gesticulator-Page/
+permalink: /publication/2024_siggraph_semantic_gesticulator
+link: https://pku-mocca.github.io/Semantic-Gesticulator-Page/
 date: 2024-3-01
 venue: "SIGGRAPH"
 authors: "Zeyi Zhang*, Tenglong Ao*, Yuyao Zhang*, Qingzhe Gao, Chuan Lin, Baoquan Chen, Libin Liu†"

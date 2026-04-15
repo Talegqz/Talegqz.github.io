@@ -1,7 +1,8 @@
 ---
 title: "ProTracker: Probabilistic Integration for Robust and Accurate Point Tracking"
 collection: publications
-permalink: https://michaelszj.github.io/protracker/
+permalink: /publication/2025_protracker
+link: https://michaelszj.github.io/protracker/
 date: 2025-1-06
 venue: "arXiv"
 authors: "Tingyang Zhang, Chen Wang, Zhiyang Dou, Qingzhe Gao, Jiahui Lei, Baoquan Chen, Lingjie Liu"

@@ -1,7 +1,8 @@
 ---
 title: "BAGS: Building Animatable Gaussian Splatting from a Monocular Video with Diffusion Priors"
 collection: publications
-permalink: https://talegqz.github.io/BAGS/
+permalink: /publication/2024_bags
+link: https://talegqz.github.io/BAGS/
 date: 2024-3-10
 venue: "Arxiv"
 authors: "Tingyang Zhang*, Qingzhe Gao*, Weiyu Li, Libin Liu,  Baoquan Chen"
