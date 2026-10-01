@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2026_sentiavatar
 link: https://sentiavatar.github.io/
 date: 2026-04-03
-venue: "arXiv"
+venue: "ACM Multimedia"
 authors: "Chuhao Jin*, Rui Zhang*, Haoyu Shi, Dayu Wu, Yichen Jiang, Yihan Wu, Ruihua Song, Qingzhe Gao"
 comments: "*: joint first author"
 arxiv: 'https://arxiv.org/abs/2604.02908'
