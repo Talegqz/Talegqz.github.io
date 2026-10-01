@@ -18,6 +18,19 @@ See more info at https://academicpages.github.io/
 
 ## To run locally (not on GitHub Pages, to serve on your own computer)
 
+### Local preview on this Mac
+
+Run `./bin/preview` from the repository directory, then open
+<http://localhost:4000>. Saving pages, publications, or styles rebuilds the
+site and refreshes the browser automatically. No commit or push is needed.
+Press `Ctrl+C` to stop; run the same command to restart. Changes to
+`_config.yml` or `_config.dev.yml` require restarting the server.
+
+The script uses Homebrew Ruby 3.3 when installed (`brew install ruby@3.3`).
+Dependencies are installed with Bundler; on this Mac they are stored in
+the ignored `vendor/bundle` directory. Use `PORT=4001 ./bin/preview` if
+port 4000 is occupied.
+
 1. Clone the repository and made updates as detailed above
 1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
 1. Run `bundle clean` to clean up the directory (no need to run `--force`)

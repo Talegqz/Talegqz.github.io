@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+set -euo pipefail
+cd "$(dirname "$0")/.."
+
+# Use the Homebrew Ruby when available, without changing the system Ruby.
+if command -v brew >/dev/null 2>&1; then
+  ruby_prefix="$(brew --prefix ruby@3.3 2>/dev/null || true)"
+  if [[ -x "$ruby_prefix/bin/ruby" ]]; then
+    export PATH="$ruby_prefix/bin:$PATH"
+  fi
+fi
+
+bundle check >/dev/null 2>&1 || bundle install
+exec bundle exec jekyll serve --config _config.yml,_config.dev.yml \
+  --host 127.0.0.1 --port "${PORT:-4000}" --livereload "$@"

@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+I'm a researcher at [Vivix AI](https://vivix.ai/), specializing in multimodal generation. My current research focuses on training and accelerating multimodal video generation models. I was responsible for research and development in supervised fine-tuning and few-step generation for [Vivix-A1](https://vivix.ai/tech-report-vivix-a1) and [Vivix-W1](https://vivix.ai/tech-report-vivix-w1). I also have experience in 3D computer vision, neural rendering, and multimodal large models.
+
 I obtained my Ph.D. in Computer Science from [Shandong University](https://en.sdu.edu.cn), jointly supervised by Prof. [Baoquan Chen](https://cfcs.pku.edu.cn/baoquan/) at [Peking University](https://www.pku.edu.cn). I received my B.S. from [Taishan College](https://www.tsxt.sdu.edu.cn), Shandong University.
 
-My research interests lie in 3D computer vision, neural rendering, generative AI, and multimodal large models.
+We are recruiting research interns specializing in multimodal generative models. Please feel free to [email me](mailto:gaoqingzhe97@gmail.com) for further details.
 
 
 Publications
