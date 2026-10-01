@@ -1,9 +1,9 @@
 ---
-title: "Learning Controllable 3D Diffusion Models from Single-view Images"
+title: "Control3Diff: Learning Controllable 3D Diffusion Models from Single-view Images"
 collection: publications
 permalink: /publication/2023_3dv_control3diff
 link: https://jiataogu.me/control3diff/
-date: 2023-4-25
+date: 2024-03-01
 venue: "3DV"
 authors: "Jiatao Gu, Qingzhe Gao, Shuangfei Zhai, Baoquan Chen, Lingjie Liu, Josh Susskind"
 comments:  ""

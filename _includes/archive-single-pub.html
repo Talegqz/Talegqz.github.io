@@ -15,14 +15,11 @@
     <tr>
     <td>
     <h3 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
-        <a href="#" onclick="return false;">{{ title }}</a>
-      {% else %}
-        <a href="#" onclick="return false;">{{ title }}</a>
-      {% endif %}
+      {% assign publication_url = post.project | default: post.arxiv %}
+      <a href="{{ publication_url }}">{{ title }}</a>
     </h3>
     {% if post.authors%}{{ post.authors | replace: 'Qingzhe Gao', '<strong>Qingzhe Gao</strong>' }}{% endif %}<br>
-    {% if post.comments%}{{ post.comments }}{% endif %}
+    {% if post.comments and post.comments != true %}{{ post.comments }}{% endif %}
     <p> 
     {% if post.venue%}<span style="font-style:italic">{{ post.venue }}</span> {% endif %}
     {% if post.date %}{{ post.date | default: "1900-01-01" | date: "%Y" }}{% endif %}

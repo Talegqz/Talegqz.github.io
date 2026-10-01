@@ -123,6 +123,30 @@ include:
   - _pages
   - files
 exclude:
+  # Unused AcademicPages examples: keep sources, omit from the published site.
+  - _posts
+  - _drafts
+  - _teaching
+  - _talks
+  - _portfolio
+  - talkmap
+  - talkmap.py
+  - talkmap.ipynb
+  - markdown_generator
+  - _pages/archive-layout-with-content.md
+  - _pages/category-archive.html
+  - _pages/collection-archive.html
+  - _pages/cv.md
+  - _pages/markdown.md
+  - _pages/non-menu-page.md
+  - _pages/page-archive.html
+  - _pages/portfolio.html
+  - _pages/tag-archive.html
+  - _pages/talkmap.html
+  - _pages/talks.html
+  - _pages/teaching.html
+  - _pages/terms.md
+  - _pages/year-archive.html
   - bin
   - "*.sublime-project"
   - "*.sublime-workspace"
